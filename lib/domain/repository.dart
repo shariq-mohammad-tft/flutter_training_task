@@ -1,7 +1,9 @@
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:searching_list_with_json/data/data_model.dart';
+import 'package:flutter_training_task/data/data_model.dart';
+
+
 
 final String url = "https://www.urdu-elibrary.com/api/Book/GetBookByCategory/0";
 

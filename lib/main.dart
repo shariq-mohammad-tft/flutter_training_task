@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:searching_list_with_json/presentation/screens/home_page.dart';
+import 'package:flutter_training_task/presentation/screens/home_page.dart';
 
 void main() {
   runApp(MyApp());

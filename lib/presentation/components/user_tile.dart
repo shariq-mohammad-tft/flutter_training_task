@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:searching_list_with_json/data/data_model.dart';
-import 'package:searching_list_with_json/presentation/screens/user_details_page.dart';
+import 'package:flutter_training_task/data/data_model.dart';
+
+import 'package:flutter_training_task/presentation/screens/user_details_page.dart';
 
 class UserTile extends StatelessWidget {
   final Welcome user;

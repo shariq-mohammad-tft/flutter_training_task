@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:searching_list_with_json/data/data_model.dart';
+import 'package:flutter_training_task/data/data_model.dart';
 import 'package:url_launcher/url_launcher.dart';
 class UserDetailsPage extends StatelessWidget {
 

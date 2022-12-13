@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:searching_list_with_json/data/data_model.dart';
-import 'package:searching_list_with_json/domain/repository.dart';
-import 'package:searching_list_with_json/presentation/components/loading_widget.dart';
-import 'package:searching_list_with_json/presentation/components/user_tile.dart';
+import 'package:flutter_training_task/data/data_model.dart';
+import 'package:flutter_training_task/domain/repository.dart';
+import 'package:flutter_training_task/presentation/components/loading_widget.dart';
+import 'package:flutter_training_task/presentation/components/user_tile.dart';
 
 class HomePage extends StatefulWidget {
   @override
